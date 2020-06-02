@@ -10,6 +10,9 @@ git push -u origin master
 git remote add origin https://github.com/waninoko2302/lab4.git
 git push -u origin master // for rebase
 hello world this is rebase
+git push -u origin master fdfsdjahdgjhdgdhgda
+djsdhgadhsgadgdjad
+dsjdag
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
