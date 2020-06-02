@@ -8,6 +8,9 @@ git push -u origin master
                 
 …or push an existing repository from the command line
 git remote add origin https://github.com/waninoko2302/lab4.git
-git push -u origin master
+git push -u origin master // for rebase
+hello world this is rebase
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+##this is merge
